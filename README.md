@@ -4,25 +4,25 @@
 
 <div id="top"></div>
 
-## Table of Cotents⭐
+## Table of Cotents
 
-- [Description🧾](#description)
-- [Benefits of Using JsonPowerDB📌](#benefits-of-JSDB)
-- [Technology Used🚀](#technology-used)
-- [Scope of Functionalities⭐](#scope-of-functionalities)
-- [Examples of Use✨](#examples-of-use)
-- [Project Status🎛](#project-status)
-- [Sources🎛](#sources)
+- [Description](#description)
+- [Benefits of Using JsonPowerDB](#benefits-of-JSDB)
+- [Technology Used](#technology-used)
+- [Scope of Functionalities](#scope-of-functionalities)
+- [Examples of Use](#examples-of-use)
+- [Project Status](#project-status)
+- [Sources](#sources)
 
 <!-------------------------------------------------------------------------------------------------------------------------------------->
 
-## Description🧾
+## Description
 The Project Management Form is a web application for handling project records. It interacts with the PROJECT-TABLE in the COLLEGE-DB database, enabling users to add, update, and reset project information. The form includes validation to ensure all fields are completed before saving or updating records. JsonPowerDB is used for data storage, offering a streamlined and efficient solution for managing project data.
 <br>
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-## Benefits of Using JsonPowerDB📌
+## Benefits of Using JsonPowerDB
 
 - **Fast and Efficient**: JsonPowerDB offers high-speed performance due to its in-memory data processing capabilities.
 - **Flexibility**: It supports various types of data manipulations, including querying, updating, and deleting, using simple JSON queries.
@@ -31,7 +31,7 @@ The Project Management Form is a web application for handling project records. I
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-## Technology Used🚀
+## Technology Used
 
 <p>
   <a href="https://www.w3schools.com/html/"> <img src="https://img.icons8.com/color/70/000000/html-5--v1.png" alt="HTML" /></a>
@@ -44,7 +44,7 @@ The Project Management Form is a web application for handling project records. I
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-## Scope of Functionalities⭐
+## Scope of Functionalities
 
 - **Save**: Add new project records to the database.
 - **Update**: Modify existing project records.
@@ -53,7 +53,7 @@ The Project Management Form is a web application for handling project records. I
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-## Examples of Use✨
+## Examples of Use
 
 - **Adding a New Student**: Enter a unique Project ID to start adding a new project record. Fill in all required fields and click Save.
 - **Updating a Student** Record: Enter an existing Project ID to load and update project details. Modify the fields as needed and click Change.
@@ -61,13 +61,13 @@ The Project Management Form is a web application for handling project records. I
      
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-## Project Status🎛
+## Project Status
 
 Currently in development with version 1.2.0 integrating JsonPowerDB. Future updates will focus on additional features and enhancements based on user feedback.
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-## Sources🎛
+## Sources
 
 [JsonPowerDB Documentation](https://login2explore.com/jpdb/docs.html) :  Comprehensive documentation for JsonPowerDB, including setup, queries, and API references.🌟
 
